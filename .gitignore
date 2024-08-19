@@ -1,3 +1,8 @@
+dist
+*.tiled-session
+*.local
+/log
+
 # Logs
 logs
 *.log
